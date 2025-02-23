@@ -1,5 +1,5 @@
 Hi, I'm Niraj Bohara, also known as Mr. Maverick. I'm passionate about cybersecurity, ethical hacking, and AI, and 
-I enjoy exploring new technologies. I have experience working with Linux, Python, and open-source security tools. 
+I enjoy exploring new technologies. I have experience working with Linux, Python, web development. 
 My goal is to build and share unique cybersecurity and AI-related projects while continuously learning and growing in the field. 
 Feel free to check out my repositories and connect with me!
 
